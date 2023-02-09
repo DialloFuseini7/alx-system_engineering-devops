@@ -1,2 +1,3 @@
 # alx-system_engineering-devops
-DevOps Shell Bash
+This repository contains codes that ill be working on practicing devOps, Shell and Bash
+
