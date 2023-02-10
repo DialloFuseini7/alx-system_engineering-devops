@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 777 /alx-system_engineerind-devops/0x00-shell_permissions 
+chmod ugo+x /alx-system_engineerind-devops/0x00-shell_permissions 
